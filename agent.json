@@ -1,138 +1,43 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2820
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red0\green0\blue0;
-}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0\c84706;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0\c84706;
-}
-\margl1440\margr1440\vieww16600\viewh14780\viewkind0
-\deftab720
-\pard\pardeftab720\sa213\partightenfactor0
+{  
+    "zone":"https://recastsoftware.liquit.cloud”,  
+    "promptZone": "Disabled",  
+    "registration": {  
+        "type": "Certificate"  
+    },  
+    "deployment": {  
+        "enabled": true,  
+        "start": false,  
+        "context": "device",  
+        "cancel": false,  
+        "triggers": false,  
+        "autoStart": {  
+            "enabled": true,  
+            "deployment": “Application Workspace“,  
+            "timer": 0  
+        }  
+    },  
+    "log": {  
+    	
 
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "zone":"https://recastsoftware.liquit.cloud\'94,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "promptZone": "Disabled",\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "registration": \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "type": "Certificate"\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 \},\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "deployment": \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "enabled": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "start": false,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "context": "device",\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "cancel": false,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "triggers": false,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "autoStart": \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 "enabled": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 "deployment": \'93Application Workspace\'93,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 "timer": 0\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 \}\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 \},\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "log": \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 \AppleTypeServices 	\cb1 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\pard\pardeftab720\sa213\partightenfactor0
-\AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 "level": "Info"\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 \},\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "icon": \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "enabled": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "exit": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "timeout": 30\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 \},\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "launcher": \{\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "enabled": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "state": "Default",\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "start": "Auto",\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "tiles": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "minimal": false,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "contextMenu": false,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "sideMenu": "Tags",\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "close": true\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 \},\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "restrictZones": true,\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 "trustedZones": [\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 "\AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb3 \outl0\strokewidth0 recastsoftware.liquit.cloud\AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \outl0\strokewidth0 \strokec2 "\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'a0\'a0\'a0 ]\'a0\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \}\AppleTypeServices \'a0
-\f1\fs24 \cb1 \
-}
+"level": "Info"  
+    },  
+    "icon": {  
+        "enabled": true,  
+        "exit": true,  
+        "timeout": 30  
+    },  
+    "launcher": {  
+        "enabled": true,  
+        "state": "Default",  
+        "start": "Auto",  
+        "tiles": true,  
+        "minimal": false,  
+        "contextMenu": false,  
+        "sideMenu": "Tags",  
+        "close": true  
+    },  
+    "restrictZones": true,  
+    "trustedZones": [  
+        "recastsoftware.liquit.cloud"  
+    ]  
+} 
